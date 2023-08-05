@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice3</string>
+    <string name="vertical_scrollview_example">Vertical ScrollView example</string>
+    <string name="title_activity_home">ActivityHome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
